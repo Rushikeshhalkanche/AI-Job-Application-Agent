@@ -1,0 +1,20 @@
+Name: Rushikesh Halkanche
+
+Email: your@email.com
+Phone: 9876543210
+
+Skills:
+Python, Django, FastAPI, Machine Learning, SQL, Power BI
+
+Experience:
+- Built Academic ERP system using Django
+- Developed fraud detection ML model
+- Worked on data analysis projects using Python
+
+Projects:
+- Academic ERP System (Django Backend)
+- AI MCQ Generator using LLM
+- Hotel Booking Data Analysis
+
+Education:
+B.Tech in Mechanical Engineering (2024)
